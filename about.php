@@ -10,7 +10,11 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"></div>
+  <div class="container">
+
+hello hello heloo0 dan carandang pogi
+
+</div>
   <!-- /.container -->
 
  <?php include_once("./components/footer.php"); ?>
