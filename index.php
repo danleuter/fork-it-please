@@ -10,7 +10,9 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"></div>
+  <div class="container">
+    asdljaksdkjashdkjasdjkahskdjhaksjdhkajsdhkajsdhkjashdkjasdh
+  </div>
   <!-- /.container -->
 
  <?php include_once("./components/footer.php"); ?>
